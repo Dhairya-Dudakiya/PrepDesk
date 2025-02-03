@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "595837644343",
+    "project_id": "onlineexamapp-f43e2",
+    "storage_bucket": "onlineexamapp-f43e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595837644343:android:fc3de84fbe9f25b0f659b2",
+        "android_client_info": {
+          "package_name": "com.example.onlineexamsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595837644343-rkb4iejupmpihmsna8oesojber9u9u3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9MVwoDqiz8eqOgQFnzAyGBjAgz5itZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595837644343-rkb4iejupmpihmsna8oesojber9u9u3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595837644343-6b2hebm8jeh09nagsc0govtnd4coemid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.examination"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
